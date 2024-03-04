@@ -2,7 +2,7 @@ const fs = global.nodemodule["fs-extra"];
 module.exports.config = {
   name: "Obot",
   version: "2.0.0",
-  permission: 0,
+  permission: 2,
   credits: "Nayan",
   description: "goibot",
   prefix: false,
