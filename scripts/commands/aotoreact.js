@@ -18,4 +18,4 @@ const r = dipto[Math.floor(Math.random() * dipto.length)];
 return api.setMessageReaction(r, event.messageID, (err) => {}, true)
 }
     };
-module.exports🫂.run = function (){}
+module.exports.run = function (){}
