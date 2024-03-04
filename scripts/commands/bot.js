@@ -72,5 +72,3 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    if ((event.body.toLowerCase() == "tor boss ke") || (event.body.toLowerCase() == "admin ke ")) {
      return api.sendMessage("My Creator:ALIF HOSSON❤️/n হাই আমি মেছেন্জার ROBOT  আামার বস সোহাগ আমাকে আমাকে বানিয়েছেন আপনাদের কে হাসানোর জন্য/n আমি চাই আপনারা সব সময় হাসি খুশি থাকেন", threadID);
    };
-
-  if ((event.body.
