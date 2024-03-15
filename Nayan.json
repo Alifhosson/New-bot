@@ -6,7 +6,7 @@
   "language": "en",
   "notification": true,
   "approval": false,
-  "BOTNAME": "NAYAN-BOT",
+  "BOTNAME": "",
   "PREFIX": "/",
   "OPERATOR": [
     "100075421394195",
